@@ -1,5 +1,5 @@
 # SSD: Single Shot MultiBox Detector
-### compile on ubuntu 16.04, opencv 2.4, python 3.5
+### compile on ubuntu 16.04, opencv 3.2, python 3.5
 [![Build Status](https://travis-ci.org/weiliu89/caffe.svg?branch=ssd)](https://travis-ci.org/weiliu89/caffe)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
 
